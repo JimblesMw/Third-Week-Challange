@@ -22,7 +22,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 HOW I SOLVED
-Using the srtarter code I plugged in a function to randomly generate charaters into a password. I learned about Math.random and how it can be used to randomly pick
+Using the starter code I plugged in a function to randomly generate charaters into a password. I learned about Math.random and how it can be used to randomly pick
 charaters from a set when used in a fuction. I did read that math.random isnt the most secure way to generate passwords but further calrity would be needed for me to understand why this is.
 
 RESEARCH LINKS
